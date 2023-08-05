@@ -1,2 +1,2 @@
-# Rcon-Console
+# node-rcon-client
 Created with CodeSandbox
