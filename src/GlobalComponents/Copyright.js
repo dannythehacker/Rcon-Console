@@ -5,8 +5,8 @@ export default function Copyright() {
   return (
     <Typography variant="body2" color="textSecondary" align="center">
       {"Copyright © "}
-      <Link color="inherit" href="https://codingbutter.com/">
-        CodingButter.com
+      <Link color="inherit" href="https://dannythehacker.github.io/index.html">
+        dannythehacker.github.io
       </Link>{" "}
       {new Date().getFullYear()}
       {"."}
